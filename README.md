@@ -6,4 +6,5 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klimetzc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Metrics](/metrics.plugin.languages.svg)
+<!-- ![Metrics](/metrics.plugin.languages.svg)
+ -->
