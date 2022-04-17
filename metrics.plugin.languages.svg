@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 256 edited files from 97 commits</small>
+                <small>estimation from 256 edited files from 98 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.71191036104577" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="240.71191036104577" y="0" width="133.88806197261033" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="374.59997233365607" y="0" width="85.40002766634389" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.7884478643597" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="239.7884478643597" y="0" width="133.37441641265343" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="373.16286427701317" y="0" width="86.83713572298687" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,7 +47,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>860 lines</div>
+                                <div>880 lines</div>
                             </small>
                         </div>
                     </section>
