@@ -1,4 +1,4 @@
-##👋 Hi, I’m [@klimetzc](https://t.me/klimetzc), I am Frontend Developer
+## 👋 Hi, I’m [@klimetzc](https://t.me/klimetzc), I am Frontend Developer
 
 <!-- <img src="images/file_type_html_icon_130541.svg" width="50px"> -->
 
