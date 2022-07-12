@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="161" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
     <defs>
         <style/>
     </defs>
@@ -25,7 +25,8 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="169.70737134909598" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="169.70737134909598" y="0" width="144.92452480296708" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="314.63189615206306" y="0" width="141.46332869726473" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="456.0952248493278" y="0" width="3.9047751506722297" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.0952248493278" y="0" width="2.25201668984701" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.3472415391748" y="0" width="1.6527584608252202" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -51,6 +52,17 @@
                                 <div>3.45k lines</div>
                             </small>
                         </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                TypeScript
+                            </div>
+                            <small>
+                                <div>26 lines</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                         <div class="field language details">
@@ -69,10 +81,10 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                TSX
                             </div>
                             <small>
-                                <div>75 lines</div>
+                                <div>49 lines</div>
                             </small>
                         </div>
                     </section>
