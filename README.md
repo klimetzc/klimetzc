@@ -28,7 +28,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klimetzc&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=default)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=github)
 <!-- ![Kek](https://activity-graph.herokuapp.com/graph?username=klimetzc&theme=xcode) -->
 <!-- ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=klimetzc) -->
 <!-- ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fklimetzc1212%2Fhit-counter) -->
