@@ -26,5 +26,5 @@
 
 ![codewars](https://www.codewars.com/users/klimetzc/badges/micro)
 ---
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=github)
+<!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=github) -->
 ![Metrics](/metrics.plugin.languages.svg)
