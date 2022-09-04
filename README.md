@@ -25,6 +25,5 @@
 [![inst](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/klimetzc)
 
 ![codewars](https://www.codewars.com/users/klimetzc/badges/micro)
----
 <!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=github) -->
-![Metrics](/metrics.plugin.languages.svg)
+<!-- ![Metrics](/metrics.plugin.languages.svg) -->
