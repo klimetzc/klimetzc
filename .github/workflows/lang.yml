@@ -25,3 +25,6 @@ jobs:
             dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot
           plugin_languages_limit: 10
+          plugin_languages_colors: github
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_threshold: 0%
