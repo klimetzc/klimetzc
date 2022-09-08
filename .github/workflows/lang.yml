@@ -23,7 +23,7 @@ jobs:
           plugin_languages_details: lines
           plugin_languages_ignored: >-
             dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+            gnuplot, html, css
           plugin_languages_limit: 8
           plugin_languages_colors: github
           plugin_languages_threshold: 0%
