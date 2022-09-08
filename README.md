@@ -10,19 +10,38 @@
 
 <!-- <img src="images/file_type_html_icon_130541.svg" width="50px"> -->
 
-### <p style="text-align: center">👨‍💻Technology Stack:</p>
+## <p align="center" style="text-align: center">👨‍💻Technology Stack:</p>
 
-<div style="display: flex; flex-direction: column; align-items: center; margin: 0 auto">
-<p style="font-weight: bold">Frontend: </p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### <p align="center" style="font-weight: bold">Frontend: </p>
+<p align="center" style="font-weight: bold"> 
 
-<p style="font-weight: bold">Backend: </p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+</p>
+<p align="center" style="font-weight: bold"> 
 
-</div>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+
+
+</p>
+
+### <p align="center" style="font-weight: bold">Backend: </p>
+
+<p align="center" style="font-weight: bold"> 
+
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+
+</p>
 
 <!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -30,22 +49,33 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 -->
 
-### <p style="text-align: center">Get in touch</p>
+## <p align="center" style="text-align: center">Get in touch</p>
 
-<div style="display:flex;  justify-content: center">
+<p align="center" style="font-weight: bold"> 
 
-[![tg](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/klimetzc)[![vk](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/klimetzc)[![inst](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/klimetzc)
+<a href="https://t.me/klimetzc" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://vk.com/klimetzc" target="_blank">
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+</a>
+<a href="https://instagram.com/klimetzc" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
 
 </div>
 
 <!-- ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=klimetzc&theme=github) -->
 
----
 
-<!-- <p style="text-align: center">Stats</p> -->
+<!-- <p align="center" style="text-align: center">Stats</p> -->
 <div style="display: flex; flex-direction: column; align-items: center">
 
-![Metrics](/metrics.plugin.languages.svg)
-![codewars](https://www.codewars.com/users/klimetzc/badges/micro)
+<p align="center">
+<img src="/metrics.plugin.languages.svg" /> <br/>
+<img src="https://www.codewars.com/users/klimetzc/badges/micro" />
+</p>
 
 </div>
