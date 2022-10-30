@@ -74,7 +74,7 @@
 <div style="display: flex; flex-direction: column; align-items: center">
 
 <p align="center">
-<img src="/metrics.plugin.languages.svg" /> <br/>
+<img src="/metrics.plugin.languages.svg" />  <br/>
 <img src="https://www.codewars.com/users/klimetzc/badges/micro" />
 </p>
 
