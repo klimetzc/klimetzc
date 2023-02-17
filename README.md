@@ -2,8 +2,7 @@
 
 <!-- ##  Привет, меня зовут [Максим](https://t.me/klimetzc), я начинающий Фронтенд-разработчик -->
 
-👋 Hi, i'm Max. I am a web developer. I mostly write in JavaScript/TypeScript, but in the future i want to try Go. I am actively studying new technologies. In the plans for the near future - Next.js, NestJS, React Native, Go. Currently in active job search. Open at any new offers. I am happy to participate in team project
-
+👋 Hi, i'm Max. I am a web developer. I mostly write in JavaScript/TypeScript, but in the future i want to try Go. I am actively studying new technologies. In the plans for the near future - Next.js, NestJS, React Native, Go. 
 <!-- - 📖 Активно изучаю новые технологии. В планах на ближайшее будущее - Next.js, NestJS, React Native.
 - 💼 В текущий момент в активном поиске работы.
 - 🤝 Открыт к любым новым предложениям. С радостью поучавствую в командных проектах. -->
