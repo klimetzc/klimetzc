@@ -24,7 +24,8 @@
   ├─▢ Infrastructure: Turborepo, Docker
   ╰─────────────────────
   </pre>
-
+<div>
   <img src="./forest.jpeg" width="200"  style="object-fit: cover; display: block;" />
+</div>
 
 </div>
