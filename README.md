@@ -1,6 +1,6 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-<div style="display: flex; flex-direction: row; align-items: justify-content; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 300px ; gap: 20px;">
 
   <pre>
   ╭─┤ <b>WHOAMI</b> ├───────────────────────────────────── ✔ <span style="color: #009688;">@klimetzc</span> ₪
@@ -9,6 +9,7 @@
   ├─▢ Socials : <a href="https://t.me/klimetzc" target="_blank">Telegram</a>
   ├─▢ Activity: Currently working on <a href="https://stattrack.ru">Stattrack</a>
   ╰─────────────────────
+
 
   ╭─┤ <b>SKILLS</b> ├───────────────────────────────────── ✔ <span style="color: #009688;">@klimetzc</span> ₪
   ├─▢ Layout&Styling: Css(BEM), Scss, Styled-components
