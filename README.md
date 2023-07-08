@@ -1,6 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
-
-<div style="display: grid; grid-template-columns: 1fr 300px ; gap: 20px;">
+<div style="display: grid;">
 
   <pre>
   ╭─┤ <b>WHOAMI</b> ├───────────────────────────────────── ✔ <span style="color: #009688;">@klimetzc</span> ₪
@@ -24,8 +22,9 @@
   ├─▢ Infrastructure: Turborepo, Docker
   ╰─────────────────────
   </pre>
-<div>
-  <img src="./forest.jpeg" width="200"  style="object-fit: cover; display: block;" />
-</div>
+
+<a href="https://linktr.ee/klimetzc" target="_blank">
+  <img src="./frame.png" style="object-fit: cover; display: block;" />
+</a>
 
 </div>
