@@ -17,7 +17,7 @@
   ├─▢ Bundlers: Vite, Rollup, Parcel
   ├─▢ Animation: Framer Motion
   ├─▢ Backend frameworks: NestJS, Express
-  ├─▢ Databases: MongoDB, Postgresql
+  ├─▢ Databases: PostgreSQL, Redis, MongoDB
   ├─▢ ORMs: PrismaORM, mongoose
   ├─▢ Infrastructure: Turborepo, Docker
   ╰─────────────────────
