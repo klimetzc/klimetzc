@@ -5,19 +5,19 @@
   ├─▢ Software Developer
   ├─▢ Languages: TypeScript/JavaScript
   ├─▢ Socials : <a href="https://t.me/klimetzc" target="_blank">Telegram</a>
-  ├─▢ Activity: Currently working on <a href="https://stattrack.ru">Stattrack</a>
   ╰─────────────────────
+<!--   ├─▢ Activity: Currently working on <a href="https://stattrack.ru">Stattrack</a> -->
 
 
   ╭─┤ <b>SKILLS</b> ├───────────────────────────────────── ✔ <span style="color: #009688;">@klimetzc</span> ₪
+  ├─▢ Backend frameworks: NestJS, Express, Elysia
+  ├─▢ Databases: PostgreSQL, Clickhouse, Redis, MongoDB
   ├─▢ Layout&Styling: Css(BEM), Scss, Styled-components
-  ├─▢ Frontend frameworks: React, Next
-  ├─▢ State: Redux Toolkit, Mobx, SWR
-  ├─▢ UI: Ant Design, Tailwind
-  ├─▢ Bundlers: Vite, Rollup, Parcel
+  ├─▢ Frontend frameworks: Vue, React/Next
+  ├─▢ State: Pinia, Mobx, Redux Toolkit, SWR
+  ├─▢ UI: Ant Design, Tailwind, Primevue
+  ├─▢ Bundlers: Vite, Rollup, Parcel, esbuild
   ├─▢ Animation: Framer Motion
-  ├─▢ Backend frameworks: NestJS, Express
-  ├─▢ Databases: PostgreSQL, Redis, MongoDB
   ├─▢ ORMs: PrismaORM, mongoose
   ├─▢ Infrastructure: Turborepo, Docker
   ╰─────────────────────
